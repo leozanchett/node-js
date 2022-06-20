@@ -1,0 +1,2 @@
+npx express-generator --view=ejs expressExample
+npx express-generator --view=pug expressExample
